@@ -70,12 +70,5 @@
         android:layout_alignParentBottom="true"
         android:src="@drawable/ic_arrow_right"
         android:layout_centerHorizontal="true"/>
-    <ImageView
-        android:layout_alignRight="@+id/b1"
-        android:layout_width="30dp"
-        android:layout_height="30dp"
-        android:layout_alignParentBottom="true"
-        android:src="@drawable/ic_arrow_right"
-       />
 
 </RelativeLayout>
